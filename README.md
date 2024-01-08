@@ -1,0 +1,1 @@
+Ce projet vise à démontrer l'application de l'algorithme K-Means sur le célèbre dataset Iris. L'objectif principal est de segmenter les fleurs en clusters distincts en se basant sur leurs caractéristiques.
